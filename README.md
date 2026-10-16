@@ -1,6 +1,6 @@
 # Worker Gear Safety Detection
 
-A computer vision system that checks whether construction workers are wearing the right protective gear. It uses a custom-trained **YOLOv8** model to detect hardhats, safety vests and masks in images and video, flags missing gear in red, and shows a summary on a simple **Streamlit** dashboard.
+A computer vision system that checks whether construction workers are wearing the right protective gear. It uses a custom-trained **YOLOv8** model to detect hardhats, safety vests and masks in images and video, flags missing gear in red, and shows a summary on a simple **Streamlit** dashboard. 
 
 Built as my final-year major project for the BE in Computer Science at Brindavan College of Engineering, Bangalore (VTU).
 
